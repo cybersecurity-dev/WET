@@ -2,6 +2,38 @@
 
 WET is a tracing facility that allows a user to log events to a file (JSON, XML, CSV)
 
+
+<details>
+
+<summary>Install required tools on Windows</summary>
+
+### For Windows 11
+
+```powershell
+```
+</details>
+
+<details>
+
+<summary>Install required python libs</summary>
+
+### pip install
+```powershell
+pip install -r requirements.txt
+python3 setup.py install
+```
+
+### conda install
+```powershell
+conda config --add channels conda-forge
+conda install --file requirements_conda.txt
+python3 setup.py install
+```
+
+</details>
+
+
+
 ## Common Windows Kernel Event Types
 
 | **Event Type**             | **Description**                                                          | **Subsystem / Use Case**               |
