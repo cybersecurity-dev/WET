@@ -1,4 +1,8 @@
-# WET (Event Tracing for Windows)
+<p align="center">
+  <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
+</p>
+
+# WET ([Event](https://www.manageengine.com/products/eventlog/kb/types-of-windows-event-logs.html) Tracing for Windows)
 
 WET is a tracing facility that allows a user to log events to a file (JSON, XML, CSV)
 
