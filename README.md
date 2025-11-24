@@ -1,8 +1,14 @@
-<p align="center">
-  <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
-</p>
+<div align="center">
+    <p align="center">
+        <a align="center" href="">
+          <img width="40%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
+        </a>
+    </p>
 
-# WET | _[Event](https://www.manageengine.com/products/eventlog/kb/types-of-windows-event-logs.html) Tracing for [Windows](https://en.wikipedia.org/wiki/Windows_Security_Log)_
+# **`WET`** | _[Event](https://www.manageengine.com/products/eventlog/kb/types-of-windows-event-logs.html) Tracing for [Windows](https://en.wikipedia.org/wiki/Windows_Security_Log)_
+
+</div>
+
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
@@ -16,6 +22,8 @@ WET is a tracing facility that allows a user to log events to a file (JSON, XML,
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+[![Windows](https://img.shields.io/badge/Windows-Supported-brightgreen?logo=windows&logoColor=white)](https://github.com/cybersecurity-dev/WET)
 
 <details>
 
